@@ -1,3 +1,3 @@
 # Natural-language-processing
 
-DS)560
+DSO 560 Text Analytics and Natural Language Processing
