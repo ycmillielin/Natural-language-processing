@@ -1,3 +1,3 @@
 # Natural-language-processing
 
-DSO 560 Text Analytics and Natural Language Processing
+This is a folder for DSO 560 Text Analytics and Natural Language Processing in USC Marshall.
