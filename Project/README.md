@@ -4,7 +4,7 @@ As of 2022, podcast listeners as a group have grown 29.5% in the last three year
 With the increase in demand, the market in this industry become more competitive. Therefore, our goal is to provide a better review system and recommendation system to help US iTunes keep its leadership in podcast streaming industry. In this project, we used sentiment analysis models and category predicting models to solve the business problem. 
 
 ## Dataset Files
-[Podcast Sample CSV File](https://github.com/enning0814/DSO560/blob/main/Dataset/podcast_sample.csv.zip).
+[Podcast Sample CSV File](https://github.com/ycmillielin/Natural-language-processing/blob/main/Project/Dataset/podcast_sample.csv.zip).
 
 ## Code Files
 1. [Initial Analysis](https://github.com/ycmillielin/Natural-language-processing/blob/main/Project/Code/Initial_Analysis.ipynb).
