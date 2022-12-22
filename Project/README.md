@@ -6,6 +6,7 @@ With the increase in demand, the market in this industry become more competitive
 ## Dataset Files
 1. [Data Source](https://www.kaggle.com/datasets/thoughtvector/podcastreviews).
 2. [Sampled Podcast CSV File](https://github.com/ycmillielin/Natural-language-processing/blob/main/Project/Dataset/podcast_sample.csv.zip).
+3. [glove.6B.100d.txt](https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt).
 
 ## Code Files
 1. [Get and Sample Dataset](https://github.com/ycmillielin/Natural-language-processing/blob/main/Project/Code/GetSampleData.ipynb).
