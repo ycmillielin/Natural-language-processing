@@ -13,7 +13,7 @@ With the increase in demand, the market in this industry become more competitive
 2. [Initial Analysis](https://github.com/ycmillielin/Natural-language-processing/blob/main/Project/Code/Initial_Analysis.ipynb).
 3. [Word Cloud](https://github.com/ycmillielin/Natural-language-processing/blob/main/Project/Code/Word_Cloud_Visualization.ipynb).
 4. [Sentiment Analysis](https://github.com/ycmillielin/Natural-language-processing/blob/main/Project/Code/Sentiment_Analysis_Modelling.ipynb).
-5. [Category Predicting](https://github.com/ycmillielin/Natural-language-processing/blob/main/Project/Code/Category_Predicting_using_Reviews.ipynb.ipynb).
+5. [Category Predicting](https://github.com/ycmillielin/Natural-language-processing/blob/main/Project/Code/Category_Predicting_using_Reviews.ipynb).
 
 ## Presentation
 [Presnetation Slides](https://github.com/ycmillielin/Natural-language-processing/blob/main/Project/NLP_podcast.pdf).
